@@ -9,7 +9,7 @@
 
 ## coding test profile
 
-[![Programmers Profile](https://programmers.co.kr/users/ohsen12)](https://programmers.co.kr/users/ohsen12)
+[ohsen](https://programmers.co.kr/users/ohsen12)
 
 
 ---
