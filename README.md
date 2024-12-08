@@ -9,11 +9,9 @@
 
 ## coding test profile
 
-[![Programmers Profile](https://programmers.co.kr/users/ohsen)](https://programmers.co.kr/users/ohsen)
+[![Programmers Profile](https://programmers.co.kr/users/ohsen12)](https://programmers.co.kr/users/ohsen12)
 
 
 ---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohsen12&show_icons=true&locale=en" alt="ohsen12" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsen12&" alt="ohsen12" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohsen12&show_icons=true&locale=en" alt="ohsen12" /> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsen12&" alt="ohsen12" /></p>
