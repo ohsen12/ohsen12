@@ -10,11 +10,11 @@
 
 ##
 
-<img src="https://ghchart.rshah.org/AFEEEE/ohsen12" width=100% />
+<img src="https://ghchart.rshah.org/4169E1/ohsen12" width=100% />
 
 ##
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohsen12&show_icons=true&locale=en&title_color=002366&text_color=87CEEB&icon_color=AFEEEE&bg_color=FFFFFF" alt="ohsen12" /> 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohsen12&show_icons=true&locale=en&title_color=002366&text_color=4169E1&icon_color=AFEEEE&bg_color=FFFFFF" alt="ohsen12" /> 
 
 ##
 
