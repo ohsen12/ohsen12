@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Seeun from Korea 🇰🇷</h1>
+<h1 align="left">Hi, I'm SEEUN OH from Korea 🇰🇷</h1>
 <h3 align="left">I'm a beginner who just started learning to code! ✏️</h3>
 
 
