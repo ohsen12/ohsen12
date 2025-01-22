@@ -1,25 +1,25 @@
 <h1 align="left">Hi, I'm SEEUN OH from Korea 🇰🇷</h1>
-<h3 align="left">I'm a beginner who just started learning to code! ✏️</h3>
 
 
-
-## Languages and Tools
-
-## 기술 스택
+## ⚙️ Tech Stack 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/DRF-ff1709?style=for-the-badge&logo=django&logoColor=white)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
 ![SQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## 📝 My Page
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohsen12)
+[![Tistory](https://img.shields.io/badge/Tistory-FF6600?style=for-the-badge&logo=tistory&logoColor=white)](https://your-tistory-blog-url.tistory.com)
 
 
 ##
 
 <img src="https://ghchart.rshah.org/4169E1/ohsen12" width=100% />
 
-##
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ohsen12&show_icons=true&locale=en&title_color=002366&text_color=4169E1&icon_color=AFEEEE&bg_color=FFFFFF" alt="ohsen12" /> 
 
 ##
 
