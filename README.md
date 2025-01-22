@@ -13,14 +13,13 @@
 
 ## 📝 My Page
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ohsen12)
-[![Tistory](https://img.shields.io/badge/Tistory-FF6600?style=for-the-badge&logo=tistory&logoColor=white)](https://your-tistory-blog-url.tistory.com)
+[![Tistory](https://img.shields.io/badge/Tistory-FF6600?style=for-the-badge&logo=tistory&logoColor=white)](https://tpsdms12.tistory.com/)
+
+##
+<img src="https://github-readme-stats.vercel.app/api?username=ohsen12&show_icons=true&theme=transparent&hide_border=true&icon_color=A4DDED&text_color=73C2FB&title_color=4682B4&count_private=true" width=59% />
 
 
 ##
 
 <img src="https://ghchart.rshah.org/4169E1/ohsen12" width=100% />
 
-
-##
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ohsen12&stroke=ffffff&background=ffffff&ring=AFEEEE&fire=B22222&currStreakNum=002366&sideNums=002366&currStreakLabel=002366&sideLabels=002366&dates=002366" alt="ohsen12" /></p> 
